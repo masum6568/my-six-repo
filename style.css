@@ -4,3 +4,12 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
 }
+div{
+   background-color:chocolate;
+}
+small{
+    color:darkcyan;
+}
+ul{
+    background-color: darkorchid;
+}
